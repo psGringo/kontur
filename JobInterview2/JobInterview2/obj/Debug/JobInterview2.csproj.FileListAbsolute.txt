@@ -1,0 +1,12 @@
+C:\C#\JobInterview\JobInterview2\JobInterview2\bin\Debug\JobInterview2.exe.config
+C:\C#\JobInterview\JobInterview2\JobInterview2\bin\Debug\JobInterview2.exe
+C:\C#\JobInterview\JobInterview2\JobInterview2\bin\Debug\JobInterview2.pdb
+C:\C#\JobInterview\JobInterview2\JobInterview2\obj\Debug\JobInterview2.csprojResolveAssemblyReference.cache
+C:\C#\JobInterview\JobInterview2\JobInterview2\obj\Debug\JobInterview2.exe
+C:\C#\JobInterview\JobInterview2\JobInterview2\obj\Debug\JobInterview2.pdb
+C:\C#\kontur\JobInterview2\JobInterview2\bin\Debug\JobInterview2.exe.config
+C:\C#\kontur\JobInterview2\JobInterview2\obj\Debug\JobInterview2.exe
+C:\C#\kontur\JobInterview2\JobInterview2\obj\Debug\JobInterview2.pdb
+C:\C#\kontur\kontur\JobInterview2\JobInterview2\bin\Debug\JobInterview2.exe.config
+C:\C#\kontur\kontur\JobInterview2\JobInterview2\obj\Debug\JobInterview2.exe
+C:\C#\kontur\kontur\JobInterview2\JobInterview2\obj\Debug\JobInterview2.pdb
